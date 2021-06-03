@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Jacobites invitation to the French King. Licensed according to order.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24912</idno><idno type="EEBO-CITATION">99886067</idno>
+  <idno type="VID">188725</idno>
+  <idno type="EEBO-PROQUEST">2240898492</idno>
+  
+            <idno type="STC">Wing J105</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.3[104]</idno>
+            <idno type="STC">ESTC R225356</idno>
+            <idno type="PROQUEST">ocm99886067</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886067e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24912)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188725)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:3[105])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Jacobites invitation to the French King. Licensed according to order.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for F. Weekly,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Jacobites --  Early works to 1800.</term>
+               <term type="geographic_name">France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188725:1"/>
+            <head>The Iacobites Invitation <hi>TO THE FRENCH KING.</hi>
+            </head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <div type="invitation">
+               <opener>
+                  <salute>Invincible Monarch,</salute>
+               </opener>
+               <p>AS there is nothing more Conspicuous in the Christian World, than the Sacred performance of Treaties, and inviolable observance of Faith and Truth in the Mighty <hi>Lewis of France,</hi> Virtues that so shine in You, till they dazle Your Adorers: Your present Addressors; encouraged by those radiant Perfections, presume to lay this Supplication at Your most Royal Feet. And as in all Duty bound to declare, that living at present under the happiest of Governments, and therefore by the rooted <hi>Principles</hi> of our <hi>Nature</hi> the more <hi>Restless</hi> under it, we think fit to remonstrate our pressing Grievances in manner following.</p>
+               <p>
+                  <hi>First,</hi> As the Glory of our Native Country, (not forgetting the Renown of our <hi>Edward the Third,</hi> and our <hi>Henry the Fifth,</hi> of ever hated Memory,) is our natural Odium and Abhorrence; out of your Generous Inclination to ease us of that pain, we desire Your Princely Commiseration and Redress of that un<g ref="char:EOLhyphen"/>sufferable Grief, by the Measures we shall here further at large humbly offer and propose.</p>
+               <p>
+                  <hi>Secondly,</hi> Being most Zealous Professors of a Religion we are hear<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ily weary of, and most highly sensible of Your Majesties most immortally Famous <hi>Dra<g ref="char:EOLhyphen"/>goons;</hi> and consequently longing, even to heart-breaking, for the Blessing of those Booted Apostles amongst us; under the like pressure and Burthen of our Spiritual as well as Temporal Grievancas, we continue our Equal supplicati<g ref="char:EOLhyphen"/>ons for no less Ease and Relief herein.</p>
+               <p>To come to particulars, which we in all humility lay before Thy Royal Con<g ref="char:EOLhyphen"/>sideration; It is notoriously known to what exalted Speculations we have ad<g ref="char:EOLhyphen"/>vanced our Divine Profession of <hi>Passive Obedience,</hi> and unhappily, at present, being Subjects to a Government, where we are never likely to put that Heaven<g ref="char:EOLhyphen"/>ly Virtue into practise; we are emboldened to request Thy most Gracious Goodness, by Virtue of our present <hi>Invitation,</hi> to depute the Successour of thy Divine St. <hi>Ruth,</hi> of ever Glorious Renown, to come over amongst us; so that by beseeching Thee to Raign Lo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d over us, (to which Advancement there shall be no part wanting of our side, either in <hi>Caballing, Plotting,</hi> or <hi>Throat<g ref="char:EOLhyphen"/>cutting,</hi> or any other such Service necessary to thy Introduction) thou mayst vouchsafe to exert all thy memorable Virtues and Faculties, to the exercise of all thy Rods and Sc<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urges, Shackl<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and Manacles, and the rest of the Royal <hi>Regalia</hi> of <hi>France,</hi> that so we may taste of, or rather riot, and surfeit with the unutterable Delights of our own Darling <hi>Non-Resistance.</hi>
+               </p>
+               <p>Alas, sweet Prince, Thou inimitable Original of Imperial Sway, we have so long groan'd under Ease and Down-Beds, that we are almost out of Patience (our very Bones aking) for our Deliverance by thy expected and implored Assistance; and also for the pleasure of Brogues and Wooden Shoes, and the rest of thy <hi>Gallick</hi> Accoutrements and Habilements, <hi>ala mode de France.</hi>
+               </p>
+               <p>'Tis true, Dread Monarch, we have, for some Generations past, been a Nation a little formidable in the World, which we remember with Grief: But to thy satisfaction be it spoken, how many Years (a blessed Reformation) have we made it our indefatiga<g ref="char:EOLhyphen"/>ble Labour and Study, to take down our Altitudes, by endeavouring the Honour, the long coveted Honour, of Subjection and Vassallage, under thy dearest Yoke</p>
+               <p>Open therefore, we beseech thee, thy Bowels towards us▪ and take thy kneeling, truck<g ref="char:EOLhyphen"/>ling, humble, groveling Slaves to thy Soveraign Protection. The little Fat <hi>England,</hi> which we hope one day to make thy Kitchin Garden, or some such diminitive necessary Planta<g ref="char:EOLhyphen"/>tion under Thee, we shall indeavour to weed from some troubled Canker'd Roses, to make room for Thy sweeter and dearer <hi>Fleur-de Luces.</hi>
+               </p>
+               <p>We shall not be too tedious in enumerating our Wants, or imploring thy Graces and Favours. We are sensible Thou art satisfied how our Hearts and Souls are intirely Thine. Nor have we so long ploughed and sowed for Thee, but that we speedily expect thy Hand and Sickle to Reap thy Harvest.</p>
+               <closer>
+                  <signed>
+                     <hi>Your Dutiful Vassals,</hi> &amp;c.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>F. Weekly,</hi> 1692.</p>
+            <pb facs="tcp:188725:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
